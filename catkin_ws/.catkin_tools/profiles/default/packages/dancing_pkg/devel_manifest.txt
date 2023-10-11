@@ -1,5 +1,0 @@
-dancing_pkg
-/home/sam/dancing_point_cloud/catkin_ws/devel/.private/dancing_pkg/cmake.lock /home/sam/dancing_point_cloud/catkin_ws/devel/./cmake.lock
-/home/sam/dancing_point_cloud/catkin_ws/devel/.private/dancing_pkg/share/dancing_pkg/cmake/dancing_pkgConfig-version.cmake /home/sam/dancing_point_cloud/catkin_ws/devel/share/dancing_pkg/cmake/dancing_pkgConfig-version.cmake
-/home/sam/dancing_point_cloud/catkin_ws/devel/.private/dancing_pkg/share/dancing_pkg/cmake/dancing_pkgConfig.cmake /home/sam/dancing_point_cloud/catkin_ws/devel/share/dancing_pkg/cmake/dancing_pkgConfig.cmake
-/home/sam/dancing_point_cloud/catkin_ws/devel/.private/dancing_pkg/lib/pkgconfig/dancing_pkg.pc /home/sam/dancing_point_cloud/catkin_ws/devel/lib/pkgconfig/dancing_pkg.pc
