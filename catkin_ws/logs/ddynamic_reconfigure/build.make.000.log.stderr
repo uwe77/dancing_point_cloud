@@ -1,0 +1,91 @@
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:32:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include/ddynamic_reconfigure/ddynamic_reconfigure.h:5[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/src/ddynamic_reconfigure.cpp:11[m[K:
+[01m[K/opt/ros/melodic/include/ros/publisher.h:53:52:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     Publisher& operator=(const Publisher& other) = [01;35m[Kdefault[m[K;
+                                                    [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:33:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include/ddynamic_reconfigure/ddynamic_reconfigure.h:5[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/src/ddynamic_reconfigure.cpp:11[m[K:
+[01m[K/opt/ros/melodic/include/ros/subscriber.h:52:52:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   Subscriber& operator=(const Subscriber& other) = [01;35m[Kdefault[m[K;
+                                                    [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:34:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include/ddynamic_reconfigure/ddynamic_reconfigure.h:5[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/src/ddynamic_reconfigure.cpp:11[m[K:
+[01m[K/opt/ros/melodic/include/ros/service_server.h:51:58:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   ServiceServer& operator=(const ServiceServer& other) = [01;35m[Kdefault[m[K;
+                                                          [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:35:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include/ddynamic_reconfigure/ddynamic_reconfigure.h:5[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/src/ddynamic_reconfigure.cpp:11[m[K:
+[01m[K/opt/ros/melodic/include/ros/service_client.h:49:58:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   ServiceClient& operator=(const ServiceClient& other) = [01;35m[Kdefault[m[K;
+                                                          [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:36:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include/ddynamic_reconfigure/ddynamic_reconfigure.h:5[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/src/ddynamic_reconfigure.cpp:11[m[K:
+[01m[K/opt/ros/melodic/include/ros/timer.h:52:42:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   Timer& operator=(const Timer& other) = [01;35m[Kdefault[m[K;
+                                          [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:38:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include/ddynamic_reconfigure/ddynamic_reconfigure.h:5[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/src/ddynamic_reconfigure.cpp:11[m[K:
+[01m[K/opt/ros/melodic/include/ros/wall_timer.h:52:50:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   WallTimer& operator=(const WallTimer& other) = [01;35m[Kdefault[m[K;
+                                                  [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:39:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/include/ddynamic_reconfigure/ddynamic_reconfigure.h:5[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/src/ddynamic_reconfigure.cpp:11[m[K:
+[01m[K/opt/ros/melodic/include/ros/steady_timer.h:52:54:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   SteadyTimer& operator=(const SteadyTimer& other) = [01;35m[Kdefault[m[K;
+                                                      [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:32:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/test/dd_full_scale/dd_server.cpp:1[m[K:
+[01m[K/opt/ros/melodic/include/ros/publisher.h:53:52:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     Publisher& operator=(const Publisher& other) = [01;35m[Kdefault[m[K;
+                                                    [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:33:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/test/dd_full_scale/dd_server.cpp:1[m[K:
+[01m[K/opt/ros/melodic/include/ros/subscriber.h:52:52:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   Subscriber& operator=(const Subscriber& other) = [01;35m[Kdefault[m[K;
+                                                    [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:34:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/test/dd_full_scale/dd_server.cpp:1[m[K:
+[01m[K/opt/ros/melodic/include/ros/service_server.h:51:58:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   ServiceServer& operator=(const ServiceServer& other) = [01;35m[Kdefault[m[K;
+                                                          [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:35:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/test/dd_full_scale/dd_server.cpp:1[m[K:
+[01m[K/opt/ros/melodic/include/ros/service_client.h:49:58:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   ServiceClient& operator=(const ServiceClient& other) = [01;35m[Kdefault[m[K;
+                                                          [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:36:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/test/dd_full_scale/dd_server.cpp:1[m[K:
+[01m[K/opt/ros/melodic/include/ros/timer.h:52:42:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   Timer& operator=(const Timer& other) = [01;35m[Kdefault[m[K;
+                                          [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:38:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/test/dd_full_scale/dd_server.cpp:1[m[K:
+[01m[K/opt/ros/melodic/include/ros/wall_timer.h:52:50:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   WallTimer& operator=(const WallTimer& other) = [01;35m[Kdefault[m[K;
+                                                  [01;35m[K^~~~~~~[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/node_handle.h:39:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/sam/dancing_point_cloud/catkin_ws/src/realsense-ros/ddynamic_reconfigure/test/dd_full_scale/dd_server.cpp:1[m[K:
+[01m[K/opt/ros/melodic/include/ros/steady_timer.h:52:54:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+   SteadyTimer& operator=(const SteadyTimer& other) = [01;35m[Kdefault[m[K;
+                                                      [01;35m[K^~~~~~~[m[K
