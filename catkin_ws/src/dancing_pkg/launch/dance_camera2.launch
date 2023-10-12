@@ -15,6 +15,4 @@
     <param name="png_level" type="int" value="1"/>
   </node>
 
-  <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch"/>
-
 </launch>

@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 import os
 import sys
 sys.path.append(
     os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                 '../../arg_utils/include'))
+                 '../../dancing_tools/include'))

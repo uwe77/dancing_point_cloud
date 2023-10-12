@@ -1,4 +1,4 @@
 <launch>
-    <include file="$(dancing_pkg)/launch/dance_camera2.launch"/>
-    <include file="$(dancing_pkg)/launch/dance_camera1.launch"/>
+    <include file="$(find dancing_pkg)/launch/dance_camera2.launch"/>
+    <include file="$(find dancing_pkg)/launch/dance_camera1.launch"/>
 </launch>

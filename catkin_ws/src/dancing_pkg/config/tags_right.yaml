@@ -1,7 +1,7 @@
 tag_bundles:
   [
     {
-      name: 'top_tag_0',
+      name: 'right_tag_0',
       layout:
         #10*10
         [

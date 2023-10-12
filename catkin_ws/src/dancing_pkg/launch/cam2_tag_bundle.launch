@@ -3,7 +3,7 @@
   <arg name="launch_prefix" default="" />
 
   <!-- configure camera input -->
-  <arg name="camera_name" default="/dancing_camera1/color" />
+  <arg name="camera_name" default="/dancing_camera2/color" />
   <arg name="image_topic" default="image_raw" />
   <arg name="queue_size" default="1" />
 
