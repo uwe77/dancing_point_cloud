@@ -3,3 +3,4 @@
 /catkin_ws/logs/
 /catkin_ws/.catkin_tools/
 /catkin_ws/.catkin_workspace
+*__pycache__
